@@ -1,0 +1,46 @@
+body {
+	background-color: white;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px dotted black;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+}
+
+/*
+div.menuitem {
+	display: flex;
+	height: 9em;
+}
+*/
+
+/*
+div.menuitem h2 {
+	display: flex;
+	width: 20em;
+	padding-right: 3em;
+}
+*/
+
+/*
+div.menuitem p {
+	width: 90%;
+	font-size: 14pt;
+}
+*/
+
+/*
+div.menuitem p img {
+	float: left;
+	margin: 3px 30px 3px 60px;
+}
+*/
+
+/*
+div.menuitem h2:hover {
+	color: cyan;
+	background-color: gray;
+}
+*/
+
+
